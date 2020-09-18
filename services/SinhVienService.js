@@ -40,4 +40,6 @@ this.timKiemSinhVien = function (keyword) {
     console.log('chức năng tìm  kiếm sv');
     return '';
 }
+this.name = 'alallaa';
+
 }
